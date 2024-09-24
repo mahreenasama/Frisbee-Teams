@@ -2,7 +2,7 @@
 
 Frontend 'Frisbee Teams' Website using HTML and CSS.
 
-Site is published at https://mahreen-asama.github.io/Frisbee-Teams/
+Site is published at https://mahreenasama.github.io/Frisbee-Teams/
 
 ![teams-1](https://user-images.githubusercontent.com/79749919/147814397-51f30f61-f5e6-4ef7-9fb1-d5c185d37b9a.jpg)
 ![history-1](https://user-images.githubusercontent.com/79749919/147814435-b35e7e96-0c39-495f-bb9c-05142ae737b5.jpg)
